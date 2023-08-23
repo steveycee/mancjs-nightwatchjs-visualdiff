@@ -1,5 +1,7 @@
 # NighwatchJS VRT Demo for MancJS September 2023
 
+This is a basic react app using create react app with a basic visual diff test using NightwatchVRT for presentation purposes.
+
 ## TODO:
 
 - Get Nightwatch Running on a basic test, do I use a local app? probably should
